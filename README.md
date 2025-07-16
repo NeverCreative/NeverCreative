@@ -24,7 +24,7 @@
 
 - 👥 Jogadores Simultâneos: ~23.000 (hoje em dia houve quedas)
 - ❤️ Likes: +117K
-- 🔗 Jogo: [Jogar no Roblox](https://www.roblox.com/pt/games/5210095481/UPDATE-Omini-X-Remake-Beta-5-1))
+- 🔗 Jogo: [Jogar no Roblox](https://www.roblox.com/pt/games/5210095481/UPDATE-Omini-X-Remake-Beta-5-1)
 - 📷 Vídeo mais famoso sobre o jogo: [Ver Vídeo](https://www.youtube.com/watch?v=LeGDW5sBA0M)
 
 ---
