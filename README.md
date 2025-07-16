@@ -2,7 +2,7 @@
 <p align="center">
   <b>Programador Luau com 4 anos de experiência</b><br>
   <i>+238 milhões de visitas em jogos públicos</i><br>
-  <i>Especialista em sistemas avançados para Roblox Studio</i>
+  <i>Programador Full Stack em Luau</i>
 </p>
 
 ---
