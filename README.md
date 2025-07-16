@@ -19,37 +19,39 @@
 
 ## 🕹️ Jogos Públicos
 
-### 🎮 Exemplo Simulator 2
-![Simulator 2 Banner](https://raw.githubusercontent.com/AbraaoGomes/Simulator2/main/assets/banner.png)
+### 🎮 Omini X  
+! Jogo com 50 mil players online em auge
 
-- 👥 Jogadores Simultâneos: ~23.000
-- ❤️ Likes: +1.2M
-- 🔗 Jogo: [Jogar no Roblox](https://www.roblox.com/games/ID_DO_JOGO)
-- 📦 Código: [Ver Repositório](https://github.com/AbraaoGomes/Simulator2)
+- 👥 Jogadores Simultâneos: ~23.000 (hoje em dia houve quedas)
+- ❤️ Likes: +117K
+- 🔗 Jogo: [Jogar no Roblox](https://www.roblox.com/pt/games/5210095481/UPDATE-Omini-X-Remake-Beta-5-1))
+- 📷 Vídeo mais famoso sobre o jogo: [Ver Vídeo](https://www.youtube.com/watch?v=LeGDW5sBA0M)
 
 ---
 
-### 🏰 Exemplo RPG Tycoon
-![RPG Tycoon Banner](https://raw.githubusercontent.com/AbraaoGomes/RPG-Tycoon/main/assets/banner.png)
+## Skills
+! Skill de combo (apenas script):
+- [Vídeo da skill](https://streamable.com/65kfi2)
 
-- 👥 Jogadores Simultâneos: ~10.000
-- ❤️ Likes: +620K
-- 🔗 Jogo: [Jogar no Roblox](https://www.roblox.com/games/ID_DO_JOGO)
-- 📦 Código: [Ver Repositório](https://github.com/AbraaoGomes/RPG-Tycoon)
+! Sistemas de battleground (apenas script):
+- [Vídeo do sistema](https://streamable.com/2s394g)
 
+! Shotgun ultrakill:
+- [Vídeo do sistema](https://streamable.com/yv86o9)
 ---
 
 ## 📊 Métricas por Jogo
 
-| Jogo               | Visitas | Likes  | Jogadores | Código                                             |
-|--------------------|---------|--------|-----------|----------------------------------------------------|
-| Simulator 2        | 153M    | 1.2M   | ~23.000   | [GitHub](https://github.com/AbraaoGomes/Simulator2) |
-| RPG Tycoon         | 85M     | 620K   | ~10.000   | [GitHub](https://github.com/AbraaoGomes/RPG-Tycoon) |
-
+| Jogo               | Visitas | Likes  | Jogadores |
+|--------------------|---------|--------|-----------|
+| Omini X            | 152.1M+ | +117K  | ~50.000   |
+| Tutasu Fruits      | 2.5M+   | +6K    | ~1.000    |
+| Brainrot Rails     | 9.1M+   | +3K    | ~3.000    |
+| Speedsters         | 100K+   | +1K    | ~1.000    |
 ---
 
 ## 📌 Conecte-se comigo
 
-- 💻 [GitHub](https://github.com/AbraaoGomes)
-- 🎮 [Perfil Roblox](https://www.roblox.com/users/SEU_USER_ID/profile)
-- ✨ Discord: `abraao.gomes` *(use para contato direto ou collabs)*
+- 💻 [GitHub](https://github.com/NeverCreative)
+- 🎮 [Perfil Roblox](https://www.roblox.com/pt/users/5127778610/profile)
+- ✨ Discord: `nevercriative` *(use para contato direto ou collabs)*
