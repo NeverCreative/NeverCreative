@@ -1,57 +1,55 @@
 <h1 align="center">Abraão Gomes</h1>
 <p align="center">
-  <b>Programador Luau com 4 anos de experiência</b><br>
-  <i>+238 milhões de visitas em jogos públicos</i><br>
-  <i>Programador Sênior (Full Stack em Luau)</i>
+  <b>Luau Programmer with 4 Years of Experience</b><br>
+  <i>+238 Million Visits on Public Roblox Games</i><br>
+  <i>Senior Developer (Full Stack in Luau)</i>
 </p>
 
 ---
 
-## 🚀 Estatísticas Gerais
+## 🚀 General Stats
 
-- 🧠 4 anos programando em **Luau**
-- 📈 +238 milhões de visitas acumuladas em jogos públicos
-- 💻 Projetos próprios com sistemas complexos (plantio, AI, combate, economia)
-- 🛠️ Ferramentas criadas para simulação, tycoon, PvP e sistemas únicos
-- 📁 Repositórios organizados por módulos e sistemas
+- 🧠 4 years programming in **Luau**
+- 📈 Over 238 million total visits across public games
+- 💻 Personal projects with complex systems (farming, AI, combat, economy)
+- 🛠️ Tools developed for simulation, tycoon, PvP, and custom systems
+- 📁 Repositories organized by modules and systems
 
 ---
 
-## 🕹️ Jogos Públicos
+## 🕹️ Public Games
 
 ### 🎮 Omini X  
-! Jogo com 50 mil players online em auge
+*Game peaked at 50k concurrent players*
 
-- 👥 Jogadores Simultâneos: ~23.000 (hoje em dia houve quedas)
-- ❤️ Likes: +117K
-- 🔗 Jogo: [Jogar no Roblox](https://www.roblox.com/pt/games/5210095481/UPDATE-Omini-X-Remake-Beta-5-1)
-- 📷 Vídeo mais famoso sobre o jogo: [Ver Vídeo](https://www.youtube.com/watch?v=LeGDW5sBA0M)
+- 👥 Concurrent Players: ~23,000 (currently lower)
+- ❤️ Likes: 117K+
+- 🔗 Game: [Play on Roblox](https://www.roblox.com/pt/games/5210095481/UPDATE-Omini-X-Remake-Beta-5-1)
+- 📷 Most popular video: [Watch Video](https://www.youtube.com/watch?v=LeGDW5sBA0M)
 
 ---
 
-## Skills
-! Skill de combo (apenas script):
-- [Vídeo da skill](https://streamable.com/65kfi2)
+## ⚔️ Skills & Systems
 
-! Sistemas de battleground (apenas script):
-- [Vídeo do sistema](https://streamable.com/2s394g)
+- 💥 Combo skill (script only): [Watch demo](https://streamable.com/65kfi2)  
+- ⚔️ Battleground system (script only): [Watch demo](https://streamable.com/2s394g)  
+- 🔫 Ultrakill shotgun system: [Watch demo](https://streamable.com/yv86o9)
 
-! Shotgun ultrakill:
-- [Vídeo do sistema](https://streamable.com/yv86o9)
 ---
 
-## 📊 Métricas por Jogo
+## 📊 Game Metrics
 
-| Jogo               | Visitas | Likes  | Jogadores |
-|--------------------|---------|--------|-----------|
-| Omini X            | 152.1M+ | +117K  | ~50.000   |
-| Tutasu Fruits      | 2.5M+   | +6K    | ~1.000    |
-| Brainrot Rails     | 9.1M+   | +3K    | ~3.000    |
-| Speedsters         | 100K+   | +1K    | ~1.000    |
+| Game               | Visits   | Likes | Players   |
+|--------------------|----------|-------|-----------|
+| Omini X            | 152.1M+  | 117K+ | ~50,000   |
+| Tutasu Fruits      | 2.5M+    | 6K+   | ~1,000    |
+| Brainrot Rails     | 9.1M+    | 3K+   | ~3,000    |
+| Speedsters         | 100K+    | 1K+   | ~1,000    |
+
 ---
 
-## 📌 Conecte-se comigo
+## 📌 Connect With Me
 
-- 💻 [GitHub](https://github.com/NeverCreative)
-- 🎮 [Perfil Roblox](https://www.roblox.com/pt/users/5127778610/profile)
-- ✨ Discord: `nevercriative` *(use para contato direto ou collabs)*
+- 💻 [GitHub](https://github.com/NeverCreative)  
+- 🎮 [Roblox Profile](https://www.roblox.com/pt/users/5127778610/profile)  
+- ✨ Discord: `nevercriative` *(use for direct contact or collabs)*
